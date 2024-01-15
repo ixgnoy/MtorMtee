@@ -1,7 +1,7 @@
 # MtorMtee (Still developing for Backend...)
 A learning platform with Mentor-Mentee Programme for university students.
 
-# Descroiptions:
+# Descriptions:
 ## Now: Frontend of E-Learning-Platform
 ### Tech: HTML, CSS, Javascript, media queries
 
