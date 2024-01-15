@@ -8,4 +8,5 @@ A learning platform with Mentor-Mentee Programme for university students.
 Target of the project: Giving the user especially university student a one stop solution for all the courses they need for their development and an oppurtunity to earn teaching skills for enhancing their knowledge and professions.
 
 
-Preview:
+Preview: https://ixgnoy.github.io/MtorMtee/
+
